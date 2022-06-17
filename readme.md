@@ -1,4 +1,4 @@
-# Bank Loan data
+# Bank Loans data
 ## by Hassan Reda
 
 
